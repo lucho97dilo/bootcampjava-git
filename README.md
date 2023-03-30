@@ -1,6 +1,6 @@
 # bootcampjava-git
 proyecto inicial para git
-##diferentes variables
+## diferentes variables
 *variable 1
 *variable 2
 ###
